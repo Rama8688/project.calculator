@@ -53,3 +53,7 @@ button{
 .operator{
     color: greenyellow;
 }
+@media (max-width: 715){
+    header{
+        padding:10px 16px;}
+}
