@@ -14,7 +14,7 @@ body{
     background: linear-gradient(45deg,
     #ffff,#3a4452);
 } 
-}
+
 .calculator{
     border: 1px solid black;
     padding: 20px;
@@ -54,6 +54,7 @@ button{
 }
 .operator{
     color: greenyellow;
+}
 }
 
 
